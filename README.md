@@ -41,9 +41,13 @@ Este projeto é **uma prática de lógica de programação e POO** e serve como 
 FuncionarioApp
 │
 └───src
+
+
 │
 └───entities
 │ Funcionario.java
+
+
 │
 └───application
 ProgramaPrincipal.java
