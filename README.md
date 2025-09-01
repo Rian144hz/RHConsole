@@ -38,3 +38,12 @@ Este projeto é **uma prática de lógica de programação e POO** e serve como 
 ---
 
 ## 📂 Estrutura do Projeto
+FuncionarioApp
+│
+└───src
+│
+└───entities
+│ Funcionario.java
+│
+└───application
+ProgramaPrincipal.java
