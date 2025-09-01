@@ -1,4 +1,4 @@
-# 🖥️ RHconsole - Sistema de Funcionários em Java
+# 🖥️ RHConsole - Sistema de Funcionários em Java
 
 Bem-vindo ao **FuncionarioApp**, um projeto simples mas completo em Java, desenvolvido para praticar **Programação Orientada a Objetos (POO)**, **arrays**, **loops**, **validação de dados** e **interação com usuário via terminal**.  
 
